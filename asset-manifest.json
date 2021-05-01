@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ekivoki/static/css/main.14088ce6.chunk.css",
+    "main.js": "/ekivoki/static/js/main.954af245.chunk.js",
+    "main.js.map": "/ekivoki/static/js/main.954af245.chunk.js.map",
+    "runtime-main.js": "/ekivoki/static/js/runtime-main.47c28ba4.js",
+    "runtime-main.js.map": "/ekivoki/static/js/runtime-main.47c28ba4.js.map",
+    "static/js/2.afcb8627.chunk.js": "/ekivoki/static/js/2.afcb8627.chunk.js",
+    "static/js/2.afcb8627.chunk.js.map": "/ekivoki/static/js/2.afcb8627.chunk.js.map",
+    "static/js/3.15d5db51.chunk.js": "/ekivoki/static/js/3.15d5db51.chunk.js",
+    "static/js/3.15d5db51.chunk.js.map": "/ekivoki/static/js/3.15d5db51.chunk.js.map",
+    "index.html": "/ekivoki/index.html",
+    "static/css/main.14088ce6.chunk.css.map": "/ekivoki/static/css/main.14088ce6.chunk.css.map",
+    "static/js/2.afcb8627.chunk.js.LICENSE.txt": "/ekivoki/static/js/2.afcb8627.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c28ba4.js",
+    "static/js/2.afcb8627.chunk.js",
+    "static/css/main.14088ce6.chunk.css",
+    "static/js/main.954af245.chunk.js"
+  ]
+}
