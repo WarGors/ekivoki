@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ekivoki/static/css/main.14088ce6.chunk.css",
-    "main.js": "/ekivoki/static/js/main.d0b0321c.chunk.js",
-    "main.js.map": "/ekivoki/static/js/main.d0b0321c.chunk.js.map",
+    "main.js": "/ekivoki/static/js/main.8b6777e3.chunk.js",
+    "main.js.map": "/ekivoki/static/js/main.8b6777e3.chunk.js.map",
     "runtime-main.js": "/ekivoki/static/js/runtime-main.47c28ba4.js",
     "runtime-main.js.map": "/ekivoki/static/js/runtime-main.47c28ba4.js.map",
     "static/js/2.afcb8627.chunk.js": "/ekivoki/static/js/2.afcb8627.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.47c28ba4.js",
     "static/js/2.afcb8627.chunk.js",
     "static/css/main.14088ce6.chunk.css",
-    "static/js/main.d0b0321c.chunk.js"
+    "static/js/main.8b6777e3.chunk.js"
   ]
 }
